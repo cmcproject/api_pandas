@@ -72,3 +72,9 @@ Make migrations
 ```
 make makemigrations
 ```
+
+# TO BE CONTINUED
+- Improve documentation and add docstring
+- Add typing and mypy
+- Add tests
+- GitHub Actions
