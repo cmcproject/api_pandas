@@ -1,6 +1,6 @@
 # Intro
 
-This is Pandas service API
+This is Pandas service API for managing people data
 
 ## Prerequisites
 
@@ -47,7 +47,7 @@ docker-compose up
 
 docker-compose run --rm app sh -c "python manage.py makemigrations"
 
-#### Useful commands
+# Useful commands
 
 Build image
 
