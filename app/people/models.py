@@ -17,6 +17,7 @@ class People(models.Model):
     salary = models.FloatField(blank=True)
     years_of_experience = models.FloatField(blank=True)
 
+    @staticmethod
     def get_dataframe() -> DataFrame:
 
         return DataFrame.from_records(People.objects.all().values())
