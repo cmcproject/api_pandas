@@ -1,0 +1,197 @@
+[{
+        "model": "people.people",
+        "pk": 1,
+        "fields": {
+            "first_name": "Annmarie",
+            "last_name": "Crooke",
+            "email": "acrooke0@gizmodo.com",
+            "gender": "",
+            "date_of_birth": "1969-04-04",
+            "industry": "Other Specialty Stores",
+            "salary": 180466.37,
+            "years_of_experience": 10
+        }
+    }, {
+        "model": "people.people",
+        "pk": 2,
+        "fields": {
+            "first_name": "Morrie",
+            "last_name": "Lahive",
+            "email": "mlahive1@imdb.com",
+            "gender": "",
+            "date_of_birth": "1969-04-04",
+            "industry": "Diversified Financial Services",
+            "salary": 239640.0,
+            "years_of_experience": 6
+        }
+    }, {
+        "model": "people.people",
+        "pk": 3,
+        "fields": {
+            "first_name": "Matthias",
+            "last_name": "Roden",
+            "email": "mroden2@abc.net.au",
+            "gender": "M",
+            "date_of_birth": "1969-04-04",
+            "industry": "Metal Fabrications",
+            "salary": 139679.79,
+            "years_of_experience": 31
+        }
+    }, {
+        "model": "people.people",
+        "pk": 4,
+        "fields": {
+            "first_name": "Madelin",
+            "last_name": "Domke",
+            "email": "mdomke3@mozilla.com",
+            "gender": "",
+            "date_of_birth": "1969-04-04",
+            "industry": "n/a",
+            "salary": 196786.25,
+            "years_of_experience": 12
+        }
+    }, {
+        "model": "people.people",
+        "pk": 5,
+        "fields": {
+            "first_name": "Thain",
+            "last_name": "Souter",
+            "email": "tsouter4@cisco.com",
+            "gender": "M",
+            "date_of_birth": "1949-03-11",
+            "industry": "n/a",
+            "salary": 140291.87,
+            "years_of_experience": 28
+        }
+    }, {
+        "model": "people.people",
+        "pk": 6,
+        "fields": {
+            "first_name": "Leupold",
+            "last_name": "Dignum",
+            "email": "abc@email.com",
+            "gender": "M",
+            "date_of_birth": "1949-03-11",
+            "industry": "Commercial Banks",
+            "salary": 30132.93,
+            "years_of_experience": 16
+        }
+    }, {
+        "model": "people.people",
+        "pk": 7,
+        "fields": {
+            "first_name": "Maxim",
+            "last_name": "Mackro",
+            "email": "mmackro6@goo.ne.jp",
+            "gender": "",
+            "date_of_birth": "1949-03-11",
+            "industry": "Computer Software: Prepackaged Software",
+            "salary": 89314.84,
+            "years_of_experience": 14
+        }
+    }, {
+        "model": "people.people",
+        "pk": 8,
+        "fields": {
+            "first_name": "Belita",
+            "last_name": "Depper",
+            "email": "bdepper7@reddit.com",
+            "gender": "",
+            "date_of_birth": "1949-03-11",
+            "industry": "n/a",
+            "salary": 89314.84,
+            "years_of_experience": 14
+        }
+    }, {
+        "model": "people.people",
+        "pk": 9,
+        "fields": {
+            "first_name": "Jorry",
+            "last_name": "Kinzett",
+            "email": "jkinzett8@de.vu",
+            "gender": "",
+            "date_of_birth": "1949-03-11",
+            "industry": "Computer Software: Prepackaged Software",
+            "salary": 141421.18,
+            "years_of_experience": 4
+        }
+    }, {
+        "model": "people.people",
+        "pk": 10,
+        "fields": {
+            "first_name": "Steffane",
+            "last_name": "Ferrers",
+            "email": "sferrers9@ebay.com",
+            "gender": "",
+            "date_of_birth": "1989-01-25",
+            "industry": "n/a",
+            "salary": 44305.98,
+            "years_of_experience": 35
+        }
+    }, {
+        "model": "people.people",
+        "pk": 11,
+        "fields": {
+            "first_name": "Wendell",
+            "last_name": "Cavan",
+            "email": "dadsad@email.com",
+            "gender": "M",
+            "date_of_birth": "1989-01-25",
+            "industry": "Mining & Quarrying of Nonmetallic Minerals (No Fuels)",
+            "salary": 249309.31,
+            "years_of_experience": 10
+        }
+    }, {
+        "model": "people.people",
+        "pk": 12,
+        "fields": {
+            "first_name": "Monro",
+            "last_name": "Reames",
+            "email": "mreamesb@tumblr.com",
+            "gender": "M",
+            "date_of_birth": "1989-01-25",
+            "industry": "Packaged Foods",
+            "salary": 124194.64,
+            "years_of_experience": 23
+        }
+    }, {
+        "model": "people.people",
+        "pk": 13,
+        "fields": {
+            "first_name": "Melloney",
+            "last_name": "Ambrose",
+            "email": "mambrosec@jugem.jp",
+            "gender": "F",
+            "date_of_birth": "1989-01-25",
+            "industry": "Real Estate Investment Trusts",
+            "salary": 206917.89,
+            "years_of_experience": 6
+        }
+    }, {
+        "model": "people.people",
+        "pk": 14,
+        "fields": {
+            "first_name": "Debi",
+            "last_name": "Harrop",
+            "email": "dharropd@elegantthemes.com",
+            "gender": "F",
+            "date_of_birth": "1989-01-25",
+            "industry": "Telecommunications Equipment",
+            "salary": 93330.17,
+            "years_of_experience": 14
+        }
+    }, {
+        "model": "people.people",
+        "pk": 15,
+        "fields": {
+            "first_name": "Norby",
+            "last_name": "Poole",
+            "email": "hithere@email.com",
+            "gender": "M",
+            "date_of_birth": "1989-01-25",
+            "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+            "salary": 205254.86,
+            "years_of_experience": 9
+        }
+    }
+]
